@@ -1,3 +1,3 @@
 {
-  "conventionalCommits.scopes": ["style", "font"]
+  "conventionalCommits.scopes": ["style", "font", "image", "dashboard"]
 }
